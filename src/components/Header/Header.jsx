@@ -53,7 +53,7 @@ const Header = () => {
           <Link to='/home'>
             <div className='logo'>
               <img src={logo} alt='logo' />
-              <h5>Foodie</h5>
+              <h5>እንብላ</h5>
             </div>
           </Link>
 

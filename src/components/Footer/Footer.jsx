@@ -12,15 +12,15 @@ const Footer = () => {
           <Col lg='3' md='4' sm='6'>
             <div className='footer__logo text-start'>
               <img src={logo} alt='logo' />
-              <h5>Foodie</h5>
+              <h5>እንብላ</h5>
               <p>
-                Fast and easy food delivery service to spoil the foodie within
+                Fast and easy food delivery service to spoil the food within
                 you.
               </p>
             </div>
           </Col>
           <Col lg='3' md='4' sm='6'>
-            <h5 className='footer__title'>Delivery Time</h5>
+            <h5 className='footer__title'>24/7 Open</h5>
             <ListGroup className='delivery__time-list'>
               <ListGroupItem className='delivery__time-item border-0 ps-0'>
                 <span>Monday - Thursday</span>
@@ -37,15 +37,15 @@ const Footer = () => {
             <h5 className='footer__title'>Contact</h5>
             <ListGroup className='delivery__time-list'>
               <ListGroupItem className='delivery__time-item border-0 ps-0'>
-                <span>Location: 123 Olympiakatu, Espoo, FI</span>
+                <span>Location: Megenagna, Addis Ababa</span>
               </ListGroupItem>
 
               <ListGroupItem className='delivery__time-item border-0 ps-0'>
-                <span>Hotline: +358 412 345 023</span>
+                <span>Hotline: +251 973 374 428</span>
               </ListGroupItem>
 
               <ListGroupItem className='delivery__time-item border-0 ps-0'>
-                <span>Email: contact@foodie.com</span>
+                <span>Email: johnlemma9@gmail.com</span>
               </ListGroupItem>
             </ListGroup>
           </Col>
@@ -63,8 +63,7 @@ const Footer = () => {
         <Row className='mt-5'>
           <Col lg='6' md='6'>
             <p className='copyright__text'>
-              Copyright - 2022, made by Tram Nguyen, under guidance from Muhibur
-              Rahman
+              Copyright - 2023, made by Yohannes Lemma
             </p>
           </Col>
           <Col lg='6' md='6'>
@@ -76,12 +75,12 @@ const Footer = () => {
                 </Link>
               </span>
               <span>
-                <Link to='https://github.com/tramnguyenhere'>
+                <Link to='https://github.com/jonny-grace'>
                   <i className='ri-github-fill'></i>
                 </Link>
               </span>
               <span>
-                <Link to='https://www.linkedin.com/in/tramnguyenhere/'>
+                <Link to='https://www.linkedin.com/in/jonygrace/'>
                   <i className='ri-linkedin-box-fill'></i>
                 </Link>
               </span>

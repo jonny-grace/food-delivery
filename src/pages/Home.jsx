@@ -76,7 +76,7 @@ const Home = () => {
             <Col lg='6' md='6'>
               <div className='hero__content'>
                 <h5 className='mb-3'>
-                  Fast and easy food delivery service to spoil the foodie within
+                  Fast and easy food delivery service to spoil the food within
                   you
                 </h5>
                 <h1 className='mb-4 hero__title'>
@@ -225,12 +225,12 @@ const Home = () => {
         <Container>
           <Row>
             <Col lg='6' md='6'>
-              <img src={whyImg} alt='why-foodie' className='w-100'></img>
+              <img src={whyImg} alt='why-እንብላ' className='w-100'></img>
             </Col>
             <Col lg='6' md='6'>
               <div className='why__foodie'>
                 <h2 className='foodie-title mb-4'>
-                  Why <span>Foodie?</span>
+                  Why <span>እንብላ?</span>
                 </h2>
                 <p className='foodie-desc'>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis
